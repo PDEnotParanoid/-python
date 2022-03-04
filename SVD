@@ -1,4 +1,4 @@
-#矩阵的奇异值分解
+#矩阵的奇异值分解，以图像的像素点作为元素
 
 import numpy as np
 import os
